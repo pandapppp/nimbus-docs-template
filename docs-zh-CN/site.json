@@ -7,7 +7,8 @@
   "github": "https://github.com/pandapppp/nimbus-docs-template.git",
   "navigation": [
     { "label": "本站首页", "link": "/" },
-    { "label": "入门", "link": "/getting-started" },
+    { "label": "Python 基础复习", "link": "/python" },
+    { "label": "Agent 开发技能树", "link": "/agent" },
     { "label": "仓库", "link": "https://github.com/pandapppp/nimbus-docs-template.git" }
   ],
   "theme": {
