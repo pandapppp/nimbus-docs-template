@@ -4,6 +4,18 @@
 
 这个模板将 GitHub 仓库中的 Markdown 发布为文档站点，提供导航、搜索和主题切换。这份中文示例保存在文档源仓库 [nimbus-docs-template](https://github.com/Azincc/nimbus-docs-template.git) 的 `docs-zh-CN/` 目录中，同一仓库的 `docs/` 是默认英文示例。
 
+## Python 基础复习
+
+本仓库收录了一套系统的 Python 复习文档，共 13 章，覆盖从环境搭建、核心语法到面向对象与 asyncio 进阶内容：
+
+- [Python 简介与特点](./python/introduction.md)：语言历史、核心特性与应用领域。
+- [变量与数据类型](./python/data-types.md)：数字、字符串、列表、元组、字典、集合。
+- [函数](./python/functions.md)：参数、lambda、作用域与 LEGB 规则。
+- [面向对象编程基础](./python/oop.md)：类、继承、多态与魔术方法。
+- [asyncio.eager_task_factory 详解](./python/async-eager-tasks.md)：Python 3.12 急切任务执行进阶专题。
+
+完整章节见 [Python 基础复习目录](./python.md)。
+
 ## 从这里开始
 
 - [快速入门](./getting-started.md)：在 Cloudflare 部署网站并填写构建参数。

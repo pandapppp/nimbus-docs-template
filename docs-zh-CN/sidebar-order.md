@@ -98,6 +98,7 @@ sidebar:
 | `site-config.md` | `30` | 站点配置 |
 | `deployment.md` | `40` | 部署指南 |
 | `markdown测试.md` | `50` | markdown测试 |
+| `python.md` | `60` | Python 基础复习 |
 
 表中的文件均位于本示例的 `docs-zh-CN/` 下。调整根级位置时修改对应文件；调整子页面时修改分类目录内的文件。
 
