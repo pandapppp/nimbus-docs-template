@@ -16,6 +16,17 @@
 
 完整章节见 [Python 基础复习目录](./python.md)。
 
+## Agent 开发技能树
+
+从基础到进阶的四层学习路径，系统覆盖构建 AI Agent 所需的全部知识点，含"要学什么"与"学习文档"：
+
+- [01 基础层](./agent/basics.md)：Python 编程、LLM 原理、Prompt 工程。
+- [02 核心层](./agent/core.md)：RAG 检索增强、函数调用 / 工具、记忆系统。
+- [03 框架层](./agent/framework.md)：LangChain、Agent 框架、MCP 协议。
+- [04 进阶层](./agent/advanced.md)：多 Agent 协作、评估与可观测、部署与运维。
+
+完整目录见 [Agent 开发技能树总览](./agent.md)。
+
 ## 从这里开始
 
 - [快速入门](./getting-started.md)：在 Cloudflare 部署网站并填写构建参数。
