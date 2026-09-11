@@ -13,7 +13,7 @@ Deploy and change settings in the Cloudflare dashboard without installing develo
 ## Deploy to Cloudflare
 
 <!-- deploy-button:start -->
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Azincc/nimbus-docs-template)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/pandapppp/nimbus-docs-template)
 <!-- deploy-button:end -->
 
 1. Click **Deploy to Cloudflare** above. Follow the prompts to authorize GitHub and create your template repository and Worker.

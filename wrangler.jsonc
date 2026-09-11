@@ -9,11 +9,11 @@
   // Public inputs only. The build reads these defaults; Build variables override them.
   // DOCS_TOKEN belongs exclusively in Settings > Builds > Variables and secrets.
   "vars": {
-    "DOCS_REPO": "https://github.com/Azincc/nimbus-docs-template.git",
+    "DOCS_REPO": "https://github.com/pandapppp/nimbus-docs-template.git",
     "DOCS_BRANCH": "main",
-    "DOCS_PATH": "docs",
-    "DOCS_CONFIG_PATH": "docs/site.json",
-    "SITE_URL": "https://nimbus.az1n.com",
+    "DOCS_PATH": "docs-zh-CN",
+    "DOCS_CONFIG_PATH": "docs-zh-CN/site.json",
+    "SITE_URL": "",
     // "default" uses site JSON branding, falling back to the bundled Nimbus logo.
     "SITE_LOGO": "default",
     "SITE_FAVICON": "default"

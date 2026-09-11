@@ -11,7 +11,7 @@ sidebar:
 ## 部署到 Cloudflare
 
 <!-- deploy-button:start -->
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Azincc/nimbus-docs-template)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/pandapppp/nimbus-docs-template)
 <!-- deploy-button:end -->
 
 1. 点击上方 **Deploy to Cloudflare**，按提示授权 GitHub，创建自己的模板仓库和 Worker。

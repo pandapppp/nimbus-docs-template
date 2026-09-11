@@ -1,7 +1,7 @@
 # Nimbus Docs Template
 
 <!-- deploy-button:start -->
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Azincc/nimbus-docs-template)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/pandapppp/nimbus-docs-template)
 <!-- deploy-button:end -->
 
 [中文说明](README.zh-CN.md) · [Live preview](https://nimbus.az1n.com)
