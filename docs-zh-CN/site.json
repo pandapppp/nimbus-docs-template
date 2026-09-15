@@ -11,6 +11,8 @@
     { "label": "Agent 开发技能树", "link": "/agent" },
     { "label": "僵尸毁灭工程", "link": "/zomboid" },
     { "label": "Pandas 数据分析", "link": "/pandas" },
+    { "label": "Agent 开发实战", "link": "/agent-dev" },
+    { "label": "Python 后端开发", "link": "/backend" },
     { "label": "仓库", "link": "https://github.com/pandapppp/nimbus-docs-template.git" }
   ],
   "theme": {
